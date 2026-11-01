@@ -1,0 +1,7 @@
+# Compiled Java class files
+*.class
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
